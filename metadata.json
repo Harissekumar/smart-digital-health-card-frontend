@@ -1,0 +1,8 @@
+{
+  "name": "Smart Digital Health Card System",
+  "description": "A high-security, efficient platform for doctors and emergency responders to access patient medical data via QR codes. Powered by Gemini for intelligent medical summaries and image enhancements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
